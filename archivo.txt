@@ -1,1 +1,2 @@
-esto es una prueba apra subir a github
+esto es una prueba para subir a github
+agora añado esto desde master
